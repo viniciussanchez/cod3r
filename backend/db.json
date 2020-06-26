@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Notebook Dell I3",
+            "price": 2599.99
+        },
+        {
+            "id": 2,
+            "name": "Notebook Dell I5",
+            "price": 2899.99
+        },
+        {
+            "id": 3,
+            "name": "Notebook Dell I7",
+            "price": 3199.99
+        }
+    ]
+}
