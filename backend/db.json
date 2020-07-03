@@ -13,17 +13,7 @@
     {
       "id": 3,
       "name": "Notebook Dell I7",
-      "price": 3199.99
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.98,
-      "id": 4
-    },
-    {
-      "name": "Teste",
-      "price": "12",
-      "id": 5
+      "price": "6859.65"
     }
   ]
 }
